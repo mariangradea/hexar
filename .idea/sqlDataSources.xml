@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="db8e5345-3248-400f-a363-709245934451" name="hexarbank Mapping">
+      <data-sources db="6ec1f57d-900e-4c78-a2b2-8442f3d1c160" />
+      <scope>
+        <node negative="1">
+          <node kind="database" negative="1" />
+          <node kind="database" qname="HEXARBANK">
+            <node kind="schema" negative="1" />
+          </node>
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
